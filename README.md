@@ -1,4 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkskq&layout=compact&theme=radical" alt="Top Languages"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrkskq&theme=jolly)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrkskq&theme=jolly)
 </p>
 
