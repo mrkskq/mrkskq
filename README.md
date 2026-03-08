@@ -7,3 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrkskq&color=blueviolet&style=for-the-badge&base=1000"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/mrkskq/mrkskq/blob/output/github-snake-dark.svg" />
+</p>
+
